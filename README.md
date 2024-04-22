@@ -1,1 +1,1 @@
-# personality-quiz
+ an interactive quiz that quizzes people on their personality and gives personality questions to answer. In the end, the answers that were asked as data to give a result of the individual personality. 
