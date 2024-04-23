@@ -1,7 +1,7 @@
 quote_string = input("Enter your name: ")
 print('Hi player,Welcome to your very own personality quiz!')
-print('Let\'s do a quiz to know your personality!!')
-print('Answer with (yes, no, sometimes)')
+print('Let\'s do a quiz to know your personality!')
+print('Answer with (yes, no, sometimes,barely)')
 per = 0
 persona = ['Why do you keep pushing the no word ', 'You are a rebel who likes to try new things',
            'You are an adventurer who don\'t fear death', 'You have a courageous character', 'You don\'t follow the herd',
