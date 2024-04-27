@@ -1,1 +1,1 @@
- an interactive quiz that quizzes people on their personality and gives personality questions to answer. In the end, the answers that were asked as data to give a result of the individual personality. 
+The Personality Trait Quiz is an interactive game that involves giving quizzes to others about their personality. The quiz includes questions such as "Do you get angry easily?" and the player responds with either a yes or no. It's a fun activity to play with friends and compare each other's results, determining whether you believe them or not.
