@@ -29,8 +29,7 @@ def ask():
     UInp = input('Do you want to play again?')
     if UInp == 'yes':
         if 'yes':print(' Yay! you enjoy it.')
-    if UInp =='no' :
-        if 'no':print('Your boring:)')
+    
         
            
         ask()
