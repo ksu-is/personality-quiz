@@ -1,1 +1,6 @@
-The Personality Trait Quiz is an interactive game that involves giving quizzes to others about their personality. The quiz includes questions such as "Do you get angry easily?" and the player responds with either a yes or no. It's a fun activity to play with friends and compare each other's results, determining whether you believe them or not.
+# Career Path Finder 🎓
+This quiz helps new graduates discover the career paths that best aligns with their interests. 
+After answering questions users receive recommendations for potential careers.
+
+# Source
+https://github.com/ksu-is/personality-quiz 
